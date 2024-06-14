@@ -34,7 +34,7 @@
 
 
 
-			//---------------------------------
+			//------------------------------------------
 			//Console.WriteLine("Hello, " +usuario.nome);
 
 			//Console.WriteLine( usuario.Logar("root", "qwe123")  );
